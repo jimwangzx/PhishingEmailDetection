@@ -70,7 +70,7 @@ jupyterlab-pygments @ file:///home/conda/feedstock_root/build_artifacts/jupyterl
 jupyterlab-server @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_server_1632590716858/work
 kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1635836816114/work
 Levenshtein==0.17.0
-lxml==4.6.4
+lxml==4.9.1
 MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1635833679368/work
 matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1637205430991/work
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1631080358261/work
