@@ -104,7 +104,7 @@ pluggy==1.0.0
 portend==3.0.0
 prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1635538335951/work
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1636045889479/work
-protobuf==3.19.3
+protobuf==3.19.5
 ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pyarrow==7.0.0
 pyasn1==0.4.8
